@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
-- 📫 How to reach me **vikassaini0827@gmail.com**
+- 📫 How to reach me vikassaini0827@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact I am funny😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
